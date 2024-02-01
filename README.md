@@ -72,12 +72,12 @@
 
 ###
 
-<h6 align="left">📚🗣️ Ingles B1<br>📚🗣️ Turco A2<br>📚🗣️ Portugues A2</h6>
+<h6 align="left">📚🗣️ Ingles A1<br>📚🗣️ Turco A1<br>📚🗣️ Portugues A1</h6>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LuisitoGamer69&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=luisivmaraz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
