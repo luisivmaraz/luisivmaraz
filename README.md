@@ -125,6 +125,11 @@
 
 ###
 
+<h3 align="center">Idiomas :D</h3>
+
+
+###
+
 <h6 align="center">Ingles A1<br>console.log("Hello world!");<br><br>Turco A1<br>console.log("Merhaba dünya!");<br><br>Portugues A1<br>console.log("Olá mundo!");</h6>
 
 ###
@@ -141,8 +146,4 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jfcautny7c62f05vr3nxwoggp&count=10&unique=false" alt="Spotify recently played"  />
 </div>
 
-###
 
-<h3 align="center">Idiomas :D</h3>
-
-###
