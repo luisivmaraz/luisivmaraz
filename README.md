@@ -26,10 +26,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo"  />
   </a>
 
-
-
 <a href="https://steamcommunity.com/id/luisitogamer69/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" width="44" height="32" alt="gmail logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" width="32" height="32" alt="gmail logo"  />
   </a>
 
   
@@ -93,7 +91,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://i.ibb.co/P9HKGbd/materialize-logo-0-FCAD8-A6-F8-seeklogo-com.png" height="32" alt="materialui logo"  />
+  <img src="https://i.ibb.co/P9HKGbd/materialize-logo-0-FCAD8-A6-F8-seeklogo-com.png" height="32" alt="materialize logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="tailwindcss logo"  />
 </div>
