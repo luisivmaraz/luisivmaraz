@@ -27,7 +27,7 @@
   </a>
 
 <a href="https://steamcommunity.com/id/luisitogamer69/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" width="32" height="32" alt="gmail logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" width="34" height="34" alt="steam logo"  />
   </a>
 
   
