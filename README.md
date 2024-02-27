@@ -2,7 +2,13 @@
 
 ###
 
-<h3 align="left">Sobre mi:</h3>
+<div align="center">
+  <img height="200" src="https://www.gifsanimados.org/data/media/600/cohete-y-transbordador-espacial-imagen-animada-0027.gif"  />
+</div>
+
+###
+
+<h3 align="center">Sobre mi:</h3>
 
 ###
 
@@ -127,10 +133,13 @@
 
 <h3 align="center">Idiomas :D</h3>
 
-
 ###
 
 <h6 align="center">Ingles A1<br>console.log("Hello world!");<br><br>Turco A1<br>console.log("Merhaba dünya!");<br><br>Portugues A1<br>console.log("Olá mundo!");</h6>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -144,6 +153,7 @@
 <div align="center">
 <a href="https://open.spotify.com/user/jfcautny7c62f05vr3nxwoggp">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jfcautny7c62f05vr3nxwoggp&count=10&unique=false" alt="Spotify recently played"  />
+  </a>
 </div>
 
-
+###
