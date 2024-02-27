@@ -137,9 +137,8 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Luisivmaraz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Luisivmaraz&count=10&unique=false" alt="Spotify recently played"  />
-  </a>
+<a href="https://open.spotify.com/user/jfcautny7c62f05vr3nxwoggp">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jfcautny7c62f05vr3nxwoggp&count=10&unique=false" alt="Spotify recently played"  />
 </div>
 
 ###
