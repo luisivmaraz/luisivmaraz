@@ -25,6 +25,14 @@
   <a href="luisivmaraz03@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="32" alt="gmail logo"  />
   </a>
+
+
+
+<a href="https://steamcommunity.com/id/luisitogamer69/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Steam_Logo.png" width="44" height="32" alt="gmail logo"  />
+  </a>
+
+  
 </div>
 
 ###
