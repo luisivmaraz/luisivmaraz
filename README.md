@@ -18,7 +18,7 @@
 
 ###
 
-<h5 align="center">Aunque mi enfoque principal es el desarrollo de software, mi mente vuela por la ingeniería aeronáutica y aeroespacial. La exploración de mas alla del cielo y la pasion por alcanzar nuevos planetas son áreas que me apasionan profundamente.</h5>
+<h4 align="center">Aunque mi enfoque principal es el desarrollo de software, mi mente vuela por la ingeniería aeronáutica y aeroespacial. La exploración de mas alla del cielo y la pasion por alcanzar nuevos planetas son áreas que me apasionan profundamente.</h4>
 
 ###
 
