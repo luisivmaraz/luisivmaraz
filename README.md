@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Luisivmaraz" target="_blank">
-    <img src="https://freepnglogo.com/images/all_img/1691832581twitter-x-icon-png.png" width="52" height="40" alt="x logo"  />
+    <img src="https://freepnglogo.com/images/all_img/1691832581twitter-x-icon-png.png" width="40" height="40" alt="x logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="52" height="40" alt="dribbble logo"  />
   <a href="luisivmaraz03@gmail.com" target="_blank">
