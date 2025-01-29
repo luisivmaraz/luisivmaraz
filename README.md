@@ -123,13 +123,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/jfcautny7c62f05vr3nxwoggp">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jfcautny7c62f05vr3nxwoggp&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/luisivmaraz/count.svg?"  />
